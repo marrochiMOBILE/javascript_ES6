@@ -4,7 +4,7 @@
 tidak semua yang saya bayangkan itu bakal terjadi
 saya sadar apa yang harus saya lakukan saat itu
 tapi pada kenyataannya harapan dan usaha yang saya 
-lakukan terlaluberlebihan hingga merusak taman saya sendiri.
+lakukan terlalu berlebihan hingga merusak taman saya sendiri.
 
 kutipan : m++
 27/04/2021
