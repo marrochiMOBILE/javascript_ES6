@@ -10,7 +10,8 @@ kutipan : m++
 
 ## apa itu block-scope
 ```
-block scope adalah ruang lingkup di dalam area kurung kurawal {}, seperti if statement, switch statement, for loop, while loop, dan do while loop. Variabel yang dideklarasikan dalam block scope biasa disebut block level variable
+block scope adalah ruang lingkup di dalam area kurung kurawal {}, seperti if statement, switch statement, for loop, 
+while loop, dan do while loop. Variabel yang dideklarasikan dalam block scope biasa disebut block level variable
 ```
 
 cotohnya sederahana :
