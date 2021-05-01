@@ -14,7 +14,7 @@ block scope adalah ruang lingkup di dalam area kurung kurawal {}, seperti if sta
 while loop, dan do while loop. Variabel yang dideklarasikan dalam block scope biasa disebut block level variable
 ```
 
-cotohnya sederahana :
+contoh sederhananya :
 ```js
 if(true){
     var nama ="marrochi"
@@ -57,6 +57,7 @@ console.log(number) // 6
 */
 
 ```
+
 coba bandingkan dengan ini
 ```
 number = 0
