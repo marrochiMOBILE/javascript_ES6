@@ -70,7 +70,7 @@ console.log(number) // 6
 
 ```
 
-## no 1 yang tidak diperbolehkan dalam block-scope
+## (1) yang tidak diperbolehkan dalam block-scope
 1 nama variabel yang sama didalam scope. maksudnya ketika global-scope dan block-scope dengan nama yag sama bernama `nama` maka mesin akan bingung membaca mau yg mana? karena dua duanya sama sama di init/inisialisasi
 ```js
 let nama = "marrochi"
