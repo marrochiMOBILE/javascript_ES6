@@ -77,6 +77,22 @@ console.log(nama) // error
 ```
 
 ```js
+let ok
+if(ok){
+    console.log("true-ok")
+}else{
+    console.log("else-ok") // tampil
+}
+
+ok2
+if(ok2){
+    console.log("true-ok2")
+}else{
+    console.log("else-ok2") // error
+}
+```
+
+```js
 let nama 
 
 function namaku() {
